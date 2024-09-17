@@ -1,0 +1,57 @@
+/* 
+h1{
+    color: red;
+    background-color: aqua;
+}
+h2{
+    color: blueviolet;
+    background-color: blanchedalmond;
+}
+button{
+    color: aqua;
+    background-color: black;
+}
+  /* */
+  /* h2{
+    color:#ffffff;
+    background-color: #000000;
+  }
+  p{
+    color: white;
+    background-color: black;
+  }
+  button{
+    color: white;
+    background-color: blue;
+  } */ 
+   /* h1{
+    text-align: center; 
+    text-decoration : wavy blue  underline;
+    letter-spacing:2px ;
+    font-family: sans-serif;
+     
+   }
+   p{
+    text-align: end;
+     font-weight: bolder;
+     text-decoration:  purple overline;
+     line-height: 3.0;
+   }
+   h2{
+    font: weight 600px; 
+    text-decoration: double  line-through;
+   }
+   a{
+    text-decoration: double underline;
+   } */
+    h1{
+      font-family: 'League Spartan', sans-serif;  
+      color: #ffa511;
+      text-align: center;
+      font-weight: 900;
+      font: size  55px; 
+      letter-spacing: 2px;
+      line-height: 1.5x;
+      text-decoration: blue  double underline;
+      text-transform: uppercase;
+    }

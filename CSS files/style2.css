@@ -1,0 +1,47 @@
+ /* *{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#login{
+    background-color: blue;
+    color: aliceblue;
+}
+#sign {
+    color: aqua;
+    background-color: black;
+}
+#submit{
+    color: aquamarine;
+    background-color: blueviolet;
+} 
+ *{
+    font-family: 'Courier New'  */
+ /* }
+ h1{
+    color: #1b74e4;
+ }
+ #userbtn{
+    background-color: blue;
+    color: white ;
+ }
+ .searchbtn{
+    background-color: black;
+    color: white;
+ }  descendent selector*/
+     /* p a{
+        color: purple;
+     }
+     .post a{
+        color: brown;
+        background-color: beige;
+     }
+     nav ul li a{
+        color: brown;
+        background-color: blanchedalmond;
+     } */
+      button:hover{
+         background-color: black;
+         color: white;
+      }
+     button:active{
+      background-color: brown;
+     } 
