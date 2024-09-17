@@ -1,0 +1,22 @@
+
+div{
+    height: 100px;
+    width: 500px;
+    border-width: 7px;
+    border-style: solid;
+    border-color: aquamarine;
+    padding-top: 10px;
+    padding-left: 20px;
+
+     
+      
+}
+h1{
+    border-color: rgb(177, 18, 18);
+    border-style: dotted;
+    
+
+}
+button{
+    padding: 3px 20px 15px;
+}
